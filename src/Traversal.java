@@ -1,7 +1,10 @@
 import java.util.List;
 
+// James Provencher 01/09/2020
+
 public class Traversal {
     public static void main(String[] args) {
+        //Creation of tree
         Node e1=new Node("E1");
         Node d1=new Node("D1",List.of(e1));
         Node a1=new Node("A1",List.of(d1));

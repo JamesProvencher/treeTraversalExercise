@@ -1,5 +1,6 @@
 import java.util.List;
-
+// James Provencher 01/09/2020
+// Node definition
 public class Node {
     public String name;
     public List<Node> children = null;

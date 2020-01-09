@@ -1,3 +1,5 @@
+// James Provencher 01/09/2020
+// Class that has method to recursively search for the FindMe node
 public class FindMe {
    public Node traverse(Node current) {
        if (current != null) {
